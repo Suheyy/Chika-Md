@@ -4,7 +4,7 @@
 
 </p>
 <p align="center">
-<a href="#"><img title="CHIKA MULTI DEVICE" src="https://img.shields.io/badge/CHIKA MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Suheyy bot" src="https://img.shields.io/badge/CHIKA MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/DikaArdnt"><img title="Author" src="https://img.shields.io/badge/Author-Dika-red.svg?style=for-the-badge&logo=github"></a>
@@ -34,12 +34,12 @@
 ---
 
 ## Information
-> Chika-Md adalah bot yang awalnya memakai base dari [Hisoka-Morou](https://github.com/DikaArdnt/Hisoka-Morou). Chika-Md is a bot whatsapp using a Baileys library.
+> Suheyy-Md adalah bot yang awalnya memakai base dari [Hisoka-Morou](https://github.com/DikaArdnt/Hisoka-Morou). Suheyy-Md is a bot whatsapp using a Baileys library.
 > Jika kamu menemukan semacam bug, harap untuk dimaklumi sementara
 
 ## Bugs and Tester
 * Jika kamu menemukan bug jangan lupa buka Issues
-* Info Lebih Lanjut, Chat [owner-chika](https://wa.me/6281575886399)
+* Info Lebih Lanjut, Chat [owner-suheyy](https://)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
@@ -58,8 +58,8 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 termux-setup-storage
 apt update && apt upgrade
 pkg install nodejs git ffmpeg libwebp imagemagick
-git clone https://github.com/riychdwayne/Chika-Md.git
-cd Chika-Md
+git clone https://github.com/riychdwayne/Suheyy-Md.git
+cd Suheyy-Md
 pkg install yarn
 yarn
 npm start
@@ -68,8 +68,8 @@ npm start
 ## Edit file
 `./settings.js`
 ```ts
-global.owner = ['6281575886399','6281575886399','6281575886399']
-global.premium = ['6281575886399']
+global.owner = ['','','']
+global.premium = ['']
 global.ownernomer = '6281575886399'
 global.ownername = 'RIY'
 global.botname = 'Chika-Md'
@@ -78,7 +78,7 @@ global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
 global.ig = 'https://instagram.com/riychdwayne'
 global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
 global.myweb = 'https://s.id/RiyAPIs'
-global.email = 'riychdwaynee@gmail.com'
+global.email = 'tdk ada'
 global.region = 'indonesia'
 global.packname = '© Chika-Md'
 global.author = 'RIY'
